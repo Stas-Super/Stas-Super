@@ -3,4 +3,4 @@
 # Hello, I'm Stas
 
 - I'm a developer with two years of experience in various technologies.
-- I also have my own projects like ![Disco](https://github.com/Disco-Software)
+- ![Disco](https://github.com/Stas-Super/Stas-Super/blob/main/images/logo.png) I also have my own projects like ![(https://github.com/Stas-Super/Stas-Super/blob/main/images/logo.png)](https://github.com/Disco-Software)
